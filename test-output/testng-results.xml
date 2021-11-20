@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="135688" started-at="2021-11-20T18:14:52 IST" finished-at="2021-11-20T18:17:08 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="135688" started-at="2021-11-20T18:14:52 IST" finished-at="2021-11-20T18:17:08 IST">
+      <class name="com.mindtree.Runner.hybridRunner">
+        <test-method status="PASS" signature="getdriver()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="getdriver" is-config="true" duration-ms="5841" started-at="2021-11-20T18:14:52 IST" finished-at="2021-11-20T18:14:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdriver -->
+        <test-method status="PASS" signature="checkCashOnDeliveryAvail()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="checkCashOnDeliveryAvail" duration-ms="4743" started-at="2021-11-20T18:14:58 IST" finished-at="2021-11-20T18:15:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCashOnDeliveryAvail -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="closeDriver" is-config="true" duration-ms="726" started-at="2021-11-20T18:15:03 IST" finished-at="2021-11-20T18:15:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="getdriver()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="getdriver" is-config="true" duration-ms="5003" started-at="2021-11-20T18:15:03 IST" finished-at="2021-11-20T18:15:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdriver -->
+        <test-method status="PASS" signature="countlinks()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="countlinks" duration-ms="53" started-at="2021-11-20T18:15:08 IST" finished-at="2021-11-20T18:15:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countlinks -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="closeDriver" is-config="true" duration-ms="693" started-at="2021-11-20T18:15:09 IST" finished-at="2021-11-20T18:15:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="getdriver()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="getdriver" is-config="true" duration-ms="4610" started-at="2021-11-20T18:15:09 IST" finished-at="2021-11-20T18:15:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdriver -->
+        <test-method status="PASS" signature="faceMasks()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="faceMasks" duration-ms="4604" started-at="2021-11-20T18:15:14 IST" finished-at="2021-11-20T18:15:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faceMasks -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="closeDriver" is-config="true" duration-ms="702" started-at="2021-11-20T18:15:18 IST" finished-at="2021-11-20T18:15:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="getdriver()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="getdriver" is-config="true" duration-ms="5195" started-at="2021-11-20T18:15:19 IST" finished-at="2021-11-20T18:15:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdriver -->
+        <test-method status="PASS" signature="getCorpGift()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="getCorpGift" duration-ms="4921" started-at="2021-11-20T18:15:24 IST" finished-at="2021-11-20T18:15:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCorpGift -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="closeDriver" is-config="true" duration-ms="687" started-at="2021-11-20T18:15:29 IST" finished-at="2021-11-20T18:15:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="getdriver()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="getdriver" is-config="true" duration-ms="10251" started-at="2021-11-20T18:15:30 IST" finished-at="2021-11-20T18:15:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdriver -->
+        <test-method status="PASS" signature="getGiftCard()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="getGiftCard" duration-ms="3238" started-at="2021-11-20T18:15:40 IST" finished-at="2021-11-20T18:15:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getGiftCard -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="closeDriver" is-config="true" duration-ms="682" started-at="2021-11-20T18:15:43 IST" finished-at="2021-11-20T18:15:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="getdriver()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="getdriver" is-config="true" duration-ms="5180" started-at="2021-11-20T18:15:44 IST" finished-at="2021-11-20T18:15:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdriver -->
+        <test-method status="PASS" signature="getPersonalGift()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="getPersonalGift" duration-ms="9025" started-at="2021-11-20T18:15:49 IST" finished-at="2021-11-20T18:15:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPersonalGift -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="closeDriver" is-config="true" duration-ms="710" started-at="2021-11-20T18:15:58 IST" finished-at="2021-11-20T18:15:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="getdriver()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="getdriver" is-config="true" duration-ms="5678" started-at="2021-11-20T18:15:59 IST" finished-at="2021-11-20T18:16:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdriver -->
+        <test-method status="PASS" signature="getTop50()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="getTop50" duration-ms="7984" started-at="2021-11-20T18:16:05 IST" finished-at="2021-11-20T18:16:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTop50 -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="closeDriver" is-config="true" duration-ms="707" started-at="2021-11-20T18:16:13 IST" finished-at="2021-11-20T18:16:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="getdriver()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="getdriver" is-config="true" duration-ms="4971" started-at="2021-11-20T18:16:13 IST" finished-at="2021-11-20T18:16:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdriver -->
+        <test-method status="PASS" signature="getViewAll()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="getViewAll" duration-ms="6830" started-at="2021-11-20T18:16:18 IST" finished-at="2021-11-20T18:16:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getViewAll -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="closeDriver" is-config="true" duration-ms="704" started-at="2021-11-20T18:16:25 IST" finished-at="2021-11-20T18:16:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="getdriver()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="getdriver" is-config="true" duration-ms="11268" started-at="2021-11-20T18:16:26 IST" finished-at="2021-11-20T18:16:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdriver -->
+        <test-method status="PASS" signature="getprodBysearch()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="getprodBysearch" duration-ms="12153" started-at="2021-11-20T18:16:37 IST" finished-at="2021-11-20T18:16:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getprodBysearch -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="closeDriver" is-config="true" duration-ms="697" started-at="2021-11-20T18:16:49 IST" finished-at="2021-11-20T18:16:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="getdriver()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="getdriver" is-config="true" duration-ms="14049" started-at="2021-11-20T18:16:50 IST" finished-at="2021-11-20T18:17:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdriver -->
+        <test-method status="PASS" signature="signIn()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="signIn" duration-ms="3058" started-at="2021-11-20T18:17:04 IST" finished-at="2021-11-20T18:17:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.mindtree.Runner.hybridRunner@24fcf36f]" name="closeDriver" is-config="true" duration-ms="666" started-at="2021-11-20T18:17:07 IST" finished-at="2021-11-20T18:17:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.mindtree.Runner.hybridRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

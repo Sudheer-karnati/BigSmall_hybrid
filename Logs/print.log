@@ -1,0 +1,16 @@
+18:24:28.338 [main] INFO  com.mindtree.Runner.hybridRunner - driver intialised
+18:24:32.371 [main] INFO  com.mindtree.Runner.hybridRunner - URL HomePage opened
+18:24:42.210 [AsyncHttpClient-1-7] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+18:24:44.139 [main] INFO  com.mindtree.Runner.hybridRunner - driver intialised
+18:24:47.885 [main] INFO  com.mindtree.Runner.hybridRunner - URL HomePage opened
+18:25:31.514 [AsyncHttpClient-1-10] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+18:25:33.524 [main] INFO  com.mindtree.Runner.hybridRunner - driver intialised
+18:25:38.302 [main] INFO  com.mindtree.Runner.hybridRunner - URL HomePage opened
+18:25:49.726 [AsyncHttpClient-1-13] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+18:25:51.807 [main] INFO  com.mindtree.Runner.hybridRunner - driver intialised
+18:25:55.334 [main] INFO  com.mindtree.Runner.hybridRunner - URL HomePage opened
+18:26:01.232 [AsyncHttpClient-1-4] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+18:26:03.311 [main] INFO  com.mindtree.Runner.hybridRunner - driver intialised
+18:26:07.416 [main] INFO  com.mindtree.Runner.hybridRunner - URL HomePage opened
+18:26:09.191 [main] INFO  com.mindtree.Runner.hybridRunner - checked login
+18:26:10.660 [AsyncHttpClient-1-7] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
